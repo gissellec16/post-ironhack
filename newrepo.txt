@@ -1,0 +1,4 @@
+create new repo
+use clone link
+create new folder with the layers you want included
+copy past into git bash with git clone
